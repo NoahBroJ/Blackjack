@@ -1,0 +1,14 @@
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\MainWindow.g.cs
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\App.g.cs
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack_MarkupCompile.cache
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack_MarkupCompile.lref
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\MainWindow.baml
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.g.resources
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\noah0030\OneDrive for Business\Softwarekonstruktion\S2\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
